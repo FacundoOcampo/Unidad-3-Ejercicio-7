@@ -1,0 +1,22 @@
+{
+    "__class__": "List",
+    "Personal": [
+        {
+            "__class__": "DocenteInv",
+            "__atributos__": {
+                "cuil": "4124124",
+                "apellido": "Mallea",
+                "nombre": "Agustin",
+                "sueldo": 70000.0,
+                "antiguedad": 28,
+                "categoria": "IV",
+                "importe": 15000.0,
+                "area": "Informatica",
+                "tipo": "IA",
+                "carrera": "LCC",
+                "cargo": "Exclusivo",
+                "catedra": "Algortimos"
+            }
+        }
+    ]
+}
